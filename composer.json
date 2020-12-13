@@ -14,10 +14,10 @@
   ],
   "require": {
     "php": "^7.3",
-    "bricks-framework/config": "^0.1",
-    "bricks-cmf/eventizr-service": "^0.1",
-    "bricks-cmf/lazyloader-service": "^0.1",
-    "bricks-cmf/eventmanager": "^0.1"
+    "bricks-framework/config": "^0.1|dev-master",
+    "bricks-cmf/eventizr-service": "^0.1|dev-master",
+    "bricks-cmf/lazyloader-service": "^0.1|dev-master",
+    "bricks-cmf/eventmanager": "^0.1|dev-master"
   },
   "autoload": {
     "classmap": ["lib/"]
